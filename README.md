@@ -10,7 +10,7 @@
     <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
     <title>About Me</title>
 </head>
-<a href="index.html">
+<a href="https://github.com/christabelosas/christabelosas">
     Click to Homepage
 </a>
 <body>
