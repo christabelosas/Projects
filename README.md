@@ -96,22 +96,7 @@ This project used text mining techniques and Natural Language processing algorit
             </p>
         <p>In summary, the ability of text mining and sentiment analysis to provide good insights of customer opinions to businesses has been achieved in this study. Selection of hotels and restaurants based on lowest reviews as selection criteria provides great insights to why the reviews are low recommending what could be worked on to increase positive customer reviews based on generated word clouds and frequency distribution of review words in case study hotels and restaurant (Dada Yura restaurant in Patong selected based on highest percentage negative review and Chekhoff Restaurant and bar selected based on highest percentage positive review). These insights would be useful by management and decision makers of hotels, restaurants and bar in the study locations create better customer experience in tourism industry. 
             <br>Python Notebook for the full code of this project can be seen using this link <a href = "https://colab.research.google.com/drive/1URc_m3StNJQP3-0lENI89iMpdIviBHHd?authuser=1"> <b>Click here to view project codes</b></a></p>
-      </div>
-      <div class="project">
-        <h3> ARTIFICIAL INTELLIGENCE FAIRNESS: METHODS TO DETECT AND MITIGATE BIAS</h3>
-           <p><b>Project Overview:</b></p>
-        <p>It is important to ensure that AI is not used to perpetuate existing biases or discrimination. This study therefore explored AI Fairness 360 (AIF360) Python library by IBM, that consists of fairness metrics and algorithms that can mitigate bias in machine learning workflow. .</p>
-         <p><b>Dataset:</b></p>
-          <p>Study datasets were processed datasets from the AIF360 package namely adult census dataset, German scoring dataset and COMPAS recidivism dataset. These datasets were cleaned from null values, encoded for binary classification and normalised for unifrom variable scale. These datasets were analyzed with fairness metrics to detect bias in the training dataset</p>
-        <p><b>Analytical Technques and Tools:</b></p>
-          <p>Exploratoray data analysis of each dataset was done using visualisation tools in Python library such as plots and seaborn. Also Machine learning algorithm like Logistics regression and AIF360 algorithms available in Python were used in this project</p>
-            <p><b>Task/Implementation:</b></p>
-          <p>Using AIF360 package, reweighing algorithm was implemented, and fairness and model performance were analyzed before and after implementation of the reweighing algorithm to examine its effect on improving fairness across groups. The study used Logistics regression classifier to train model for each study dataset, predict outcomes and evaluate model performance for the three study datasets, comparing the fairness metrics and balanced accuracy of the model before and after reweighing method was implemented. </p>
-        <p><b>Results/Outcome:</b></p> 
-          <p>The study findings indicated that models created using the study dataset were biased against the unprivileged groups and reweighing method applied was able to significantly mitigate bias to create a fairer model for both the privileged and unprivileged group. Furthermore, the fairness-accuracy trade off was discussed in this study and the study was able to show using German dataset that fairness can also be achieved without significantly reducing model accuracy. 
-             <br> Ideally this model will be useful to all AI stakeholders to ensure that AI solutions developed are fair across groups, thereby upholding ethical AI.
-              <br>Python Notebook containing the full code of this project can be seen with this link <a href= "https://colab.research.google.com/drive/1XZ7uXwUeN0ZeYfiEWOgr_mIeb-vXPSkL?authuser=1"> <b>Click here to view project codes</b></a></p>
-      </div>
+
   </section>
   <footer>
     <p>&copy; 2023 My Data Science Portfolio. All rights reserved.</p>
